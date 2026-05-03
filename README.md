@@ -27,4 +27,3 @@ A responsive landing page with an interactive navigation menu created as part of
 - Floating particle effects
 - Responsive design for mobile, tablet, and desktop
 
-### 📂 Project Structure
